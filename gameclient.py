@@ -1,5 +1,5 @@
 #text shooter
-#By Aaron Forsyth
+#By Menotdan
 #Client
 
 #keyboard press detect
